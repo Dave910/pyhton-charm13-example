@@ -1,5 +1,7 @@
 #/usr/bin/python3
 
-print("What is up world")
 
-print("I will learn this language")
+def main(msg):
+    print(msg)
+
+main("Hello people")
