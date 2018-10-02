@@ -2,7 +2,7 @@
 
 
 def main(msg):
-    //new message
+    //no longer need this branch 
     print(msg)
 
 def secondary():
