@@ -2,6 +2,7 @@
 
 
 def main(msg):
+	//another another comment
 	//Adding another comment to this file
 	//What is up people
 	//Adding the second to this file
@@ -12,4 +13,3 @@ def main(msg):
 
 main("Hello people")
 main ("Nothing much and you")
-2
